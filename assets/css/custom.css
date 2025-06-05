@@ -1,0 +1,123 @@
+.bi::before, [class^="bi-"]::before, [class*=" bi-"]::before {
+    
+    vertical-align: -.195em !important;
+    
+}
+/* whatsapp Animation */
+/* Whatsapp Widget Css*/
+div.whatsapp-widget-send-button-wrapper {
+display: block;
+position: fixed;
+bottom: 0;
+right: 0;
+margin: 0;
+padding: 0;
+border: 0;
+z-index: 999;
+text-align: center;
+}
+
+div.whatsapp-widget-send-button-wrapper.whatsapp-widget-right div.whatsapp-widget-send-button-wrapper-list {
+right: 3px;
+float: right;
+}
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list {
+margin: 15px;
+padding: 0;
+border: 0;
+position: relative;
+bottom: 3px;
+text-align: center;
+}
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button.whatsapp-widget-button-activator {
+display: block;
+}
+div.whatsapp-widget-send-button-wrapper.whatsapp-widget-right div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button {
+min-width: 55px;
+}
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button {
+display: none;
+text-decoration: none;
+font-weight: normal;
+margin-top: 14px;
+position: relative;
+outline: none;
+}
+
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button div.whatsapp-widget-button-icon.wh-messenger-bg-whatsapp {
+background-color: #4dc247;
+}
+div.whatsapp-widget-send-button-wrapper.whatsapp-widget-right div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button div.whatsapp-widget-button-icon {
+float: right;
+}
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button div.whatsapp-widget-button-icon {
+float: left;
+height: 50px;
+width: 50px;
+border-radius: 50%;
+overflow: hidden;
+box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+text-align: center;
+color: white;
+}
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button.whatsapp-widget-button-activator div.whatsapp-widget-button-icon>div {
+
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 28px;
+height: 100%;
+width: 100%;
+-moz-transition: transform 0.4s ease;
+-o-transition: transform 0.4s ease;
+-webkit-transition: transform 0.4s ease;
+transition: transform 0.4s ease;
+}
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button div.whatsapp-widget-button-icon .wh-svg-icon {
+display: inline;
+}
+div.whatsapp-widget-send-button-wrapper div.whatsapp-widget-send-button-wrapper-list>a.whatsapp-widget-button div.whatsapp-widget-button-icon svg {
+fill: white;
+width: 41px;
+height: 50px;
+}
+
+/* @ gogoloader animation */
+@-webkit-keyframes gogoloader{ 0%{ -webkit-transform: scale(0); opacity: 0; }
+50%{ opacity: 1; }
+100%{ -webkit-transform: scale(1); opacity: 0; }
+}
+@-moz-keyframes gogoloader{ 0%{ -moz-transform: scale(0); opacity: 0; }
+50%{ opacity: 1; }
+100%{ -moz-transform: scale(1); opacity: 0; }
+}
+@-o-keyframes gogoloader{
+0%{ -o-transform: scale(0); opacity: 0; }
+50%{ opacity: 1; }
+100%{ -o-transform: scale(1); opacity: 0; }
+}
+@keyframes gogoloader{
+0%{ transform: scale(0); opacity: 0; }
+50%{ opacity: 1; }
+100%{ transform: scale(1); opacity: 0; }
+}
+.gogoloader-animation:before, .gogoloader-animation:after {
+opacity: 0;
+box-sizing: border-box;
+content: "\0020";
+position: absolute;
+top: -15px;
+right: -15px;
+width: 80px;
+height: 80px;
+border-radius: 100px;
+border: 5px solid #79c142;
+box-shadow: 0 0 50px #79c142, inset 0 0 50px transparent;
+}
+.gogoloader-animation:after {
+z-index: 1;
+-webkit-animation: gogoloader 2s infinite 1s;
+-moz-animation: gogoloader 2s infinite 1s;
+-o-animation: gogoloader 2s infinite 1s;
+animation: gogoloader 2s infinite 1s;
+}
