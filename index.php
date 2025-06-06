@@ -63,7 +63,7 @@
             <p>At Wealth Guard Tax, we streamline your tax and business compliance needs. <br> Get expert help at
               budget-friendly pricing.</p>
             <div class="home2-header-button home2-btn">
-              <a href="tel:658-593-8295">Call Now <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="tel:935-561-3693">Call Now <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
