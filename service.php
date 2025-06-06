@@ -90,7 +90,7 @@
                 maximum deductions—file with confidence and professional assistance.</p>
               <div class="space20"></div>
               <div class="read-more-btn">
-                <a href="ITR_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="income-tax.php">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -101,12 +101,12 @@
             <div class="service-box hadding hadding-p">
               <img src="assets/img/icons/service-icon-2.svg" alt="">
               <div class="space20"></div>
-              <h2><a href="service.html">GST Compliance (Registration & Filings)</a></h2>
+              <h2><a href="gst-service.php">GST Compliance (Registration & Filings)</a></h2>
               <p>Fast and affordable GST registration and filing. Stay compliant with automated processes and expert
                 review for accurate and timely submissions every cycle.</p>
               <div class="space20"></div>
               <div class="read-more-btn">
-                <a href="GST_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="gst-service.php">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -117,12 +117,12 @@
             <div class="service-box hadding hadding-p">
               <img src="assets/img/icons/service-icon-3.svg" alt="">
               <div class="space20"></div>
-              <h2><a href="service.html">Company Registration</a></h2>
+              <h2><a href="company.php">Company Registration</a></h2>
               <p>Register your startup as a Private Limited or LLP with ease and comfort. We handle documentation, compliance, and
                 ROC filing end-to-end—quick, transparent, and reliable.</p>
               <div class="space20"></div>
               <div class="read-more-btn">
-                <a href="CR_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="company.php">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -133,12 +133,12 @@
             <div class="service-box hadding hadding-p">
               <img src="assets/img/icons/service-icon-5.svg" alt="">
               <div class="space20"></div>
-              <h2><a href="service.html">Digital Signature Certificate</a></h2>
+              <h2><a href="dsc-service.php">Digital Signature Certificate</a></h2>
               <p>Secure your digital presence with Class 3 DSCs for GST, MCA, and tenders. Paperless issuance and
                 Doorstep verification ensure hassle-free procurement.</p>
               <div class="space20"></div>
               <div class="read-more-btn">
-                <a href="DSC_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="dsc-service.php">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -149,64 +149,19 @@
             <div class="service-box hadding hadding-p">
               <img src="assets/img/icons/service-icon-6.svg" alt="">
               <div class="space20"></div>
-              <h2><a href="service.html">MSME Registration</a></h2>
+              <h2><a href="msme.html">MSME Registration</a></h2>
               <p>Get your Udyam Registration in minutes. Official MSME certification unlocks benefits like
                 Subsidies,Tax rebates, and priority lending—100% online.</p>
               <div class="space20"></div>
               <div class="read-more-btn">
-                <a href="MSME_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="msme.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-md-6 col-lg-4">
-          <div class="box-after">
-            <div class="service-box hadding hadding-p">
-              <img src="assets/img/icons/service-icon-8.svg" alt="">
-              <div class="space20"></div>
-              <h2><a href="service.html">Import Export Code (IEC)</a></h2>
-              <p>Take your business global with our IEC registration services. Quick application and expert filing
-                Guaranteed—mandatory for exporters and importers.</p>
-              <div class="space20"></div>
-              <div class="read-more-btn">
-                <a href="IEC_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="col-md-6 col-lg-4">
-          <div class="box-after">
-            <div class="service-box hadding hadding-p">
-              <img src="assets/img/icons/service-icon-9.svg" alt="">
-              <div class="space20"></div>
-              <h2><a href="service.html">Business Annual Compliance</a></h2>
-              <p>Ensure your business stays legally sound. From ROC filings to DIR-3 KYC, we handle all statutory
-                Requirements for the year.</p>
-              <div class="space20"></div>
-              <div class="read-more-btn">
-                <a href="BAC_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4">
-          <div class="box-after">
-            <div class="service-box hadding hadding-p">
-              <img src="assets/img/icons/service-icon-4.svg" alt="">
-              <div class="space20"></div>
-              <h2><a href="service.html">Free Tax Consultation</a></h2>
-              <p>Have questions about taxes or registration? Book a free 15-minute call with our tax experts
-                For tailored guidance before you decide.</p>
-              <div class="space20"></div>
-              <div class="read-more-btn">
-                <a href="FTC_services_detail.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
+     
 
 
         <div class="col-md-6 col-lg-4">
