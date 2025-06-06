@@ -22,7 +22,7 @@
             <p>File your ITR confidently with this simple step-by-step guide tailored for salaried professionals and freelancers.</p>
             <div class="space20"></div>
             <div class="read-more-btn">
-              <a href="blog.html">Read More</a>
+              <a href="index.php">Read More</a>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
             <p>Learn how timely GST returns help you stay compliant and avoid late fees with expert-reviewed tips.</p>
             <div class="space20"></div>
             <div class="read-more-btn">
-              <a href="blog.html">Read More</a>
+              <a href="index.php">Read More</a>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
             <p>We break down digital certificates, small business registration, and export codes in plain English.</p>
             <div class="space20"></div>
             <div class="read-more-btn">
-              <a href="service.php">Read More</a>
+              <a href="index.php">Read More</a>
             </div>
           </div>
         </div>
