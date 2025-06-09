@@ -178,49 +178,33 @@
         <div class="row">
 
           <!-- Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="800">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>Private Ltd - Complete Plan</h2>
+                <p>Company Registration Applied in Just 15 Days</p>
                 <div class="space10"></div>
-                <h1>₹429</h1>
+                <h1>₹9,996*</h1>
                 <p>Billed Yearly</p>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income Tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Company Name Approval (One RUN)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> MOA & AOA Drafting by Expert</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Certificate of Incorporation (COI)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> PF, ESI, and Professional Tax Registration</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> PAN, TAN Number</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> 2 DSCs (Class 3, 2 Year Validity)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> 2 DINs</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Bank A/C Opening Kit</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Authorized Capital up to ₹15 Lakh*</li>
                   </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Pro Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Pro</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
-                <div class="space10"></div>
-                <h1>$1499/mo</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div>
-                <div class="home2-price-list">
+                  <strong>Excludes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li>GST Registration</li>
+                    <li>MSME-Udyam Registration</li>
+                    <li>Post-incorporation compliances (within 180 days)</li>
                   </ul>
                 </div>
               </div>
@@ -228,24 +212,91 @@
           </div>
 
           <!-- Another Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="1200">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>OPC - Complete Plan</h2>
+                <p>OPC Registration Applied in Just 15 Days</p>
                 <div class="space10"></div>
-                <h1>$1399/mo</h1>
+                <h1>₹9,996*</h1>
                 <p>Billed Yearly</p>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Company Name Approval (One RUN)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> MOA & AOA Drafting by Expert</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Certificate of Incorporation (COI)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> PF, ESI, and Professional Tax Registration</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> PAN, TAN Number</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> 2 DSCs (Class 3, 2 Year Validity)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> 1 DIN</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Bank A/C Opening Kit</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Authorized Capital up to ₹15 Lakh*</li>
+                  </ul>
+                  <strong>Excludes:</strong>
+                  <ul>
+                    <li>GST Registration</li>
+                    <li>MSME-Udyam Registration</li>
+                    <li>Post-incorporation compliances (within 180 days)</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Pro Plan -->
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="1000">
+            <div class="home2-pricing-box">
+              <div class="home2-hadding home2-single-service home2-hadding-p">
+                <h2>Private Ltd - Tension-Free Plan</h2>
+                <p>Company Registration Applied in Just 15 Days</p>
+                <div class="space10"></div>
+                <h1>₹11,994*</h1>
+                <p>Billed Yearly</p>
+                <div class="space20"></div>
+                <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
+                  <ul>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Everything in Complete Plan</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> GST Registration</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> MSME-Udyam Registration</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> First Board Meeting</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Auditor Appointment (ADT-1)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Commencement of Business (INC-20A)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Share Certificates Issuance</li>
+                  </ul>
+                  <strong>Excludes:</strong>
+                  <ul>
+                    <li>Nothing that is seriously required</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="1400">
+            <div class="home2-pricing-box">
+              <div class="home2-hadding home2-single-service home2-hadding-p">
+                <h2>OPC - Tension-Free Plan</h2>
+                <p>OPC Registration Applied in Just 15 Days</p>
+                <div class="space10"></div>
+                <h1>₹11,994*</h1>
+                <div class="space20"></div>
+                <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
+                  <ul>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Everything in Complete Plan</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> GST Registration</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> MSME-Udyam Registration</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> First Board Meeting</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Auditor Appointment (ADT-1)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Commencement of Business (INC-20A)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Share Certificates Issuance</li>
+                  </ul>
+                  <strong>Excludes:</strong>
+                  <ul>
+                    <li>Nothing that is seriously required</li>
                   </ul>
                 </div>
               </div>

@@ -170,79 +170,91 @@
         <div class="row">
 
           <!-- Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
+          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000"> 
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>New MSME Registration</h2>
+                <p>MSME Registration Applied in just 3 Days</p>
                 <div class="space10"></div>
-                <h1>₹429</h1>
-                <p>Billed Yearly</p>
+                <h1>₹699</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income Tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Easy & Hassle-Free Online Process</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Dedicated Expert & Account Manager</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Advisory Session From Experts</li>
+                  </ul>
+                  <strong>Plan Excludes:</strong>
+                  <ul>
+                    <li>MSME-Udyam Registration Conversion</li>
+                    <li>Migration from UAM</li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
+
 
           <!-- Pro Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
+          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000"> 
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Pro</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>MSME Conversion</h2>
+                <p>Conversion Applied in just 3 Days*</p>
                 <div class="space10"></div>
-                <h1>$1499/mo</h1>
-                <p>Billed Yearly</p>
+                <h1>₹996</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Easy & Hassle-Free Online Process</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Dedicated Expert & Account Manager</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Advisory Session From Experts</li>
+                  </ul>
+                  <strong>Plan Excludes:</strong>
+                  <ul>
+                    <li>Email ID & Mobile number cannot be changed before           conversion.</li>
+                  </ul>
+                  <strong>Note:</strong>
+                  <ul>
+                    <li>Limited Period Offer</li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
 
+
           <!-- Another Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
+          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000"> 
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>Modification in MSME</h2>
+                <p>MSME Modification in just 3 Days*</p>
                 <div class="space10"></div>
-                <h1>$1399/mo</h1>
-                <p>Billed Yearly</p>
+                <h1>₹699</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Easy & Hassle-Free Online Process</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Dedicated Expert & Account Manager</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Advisory Session From Experts</li>
+                  </ul>
+                  <strong>Plan Excludes:</strong>
+                  <ul>
+                    <li>Email ID & Mobile number cannot be changed before login.</          li>
+                  </ul>
+                  <strong>Note:</strong>
+                  <ul>
+                    <li>Limited Period Offer</li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
+
 
         </div> <!-- /.row -->
       </div> <!-- /.container -->

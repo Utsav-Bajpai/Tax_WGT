@@ -173,76 +173,134 @@
           <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>Class 3: Signing</h2>
+                <p>DSC Applied in Just 30min</p>
                 <div class="space10"></div>
-                <h1>₹429</h1>
-                <p>Billed Yearly</p>
+                <h1>₹2,850/DSC & Token</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income Tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Class 3 Digital Signature Certificate (DSC)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Token Included</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> 2 Years Validity</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Individual Use</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Free Delivery in India</li>
+                  </ul>
+                  <strong>Can Be Used For:</strong>
+                  <ul>
+                    <li>GST, Income Tax, MCA (ROC)</li>
+                    <li>EPF, E-Ticketing, Excise</li>
+                    <li>IceGate, IEC, Patent/Trademark</li>
+                  </ul>
+                  <strong>Cannot Be Used For:</strong>
+                  <ul>
+                    <li>e-Tender Portal</li>
+                    <li>Vendor/Bidder (eProcure)</li>
+                    <li>DGFT, IET</li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
+
 
           <!-- Pro Plan -->
           <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Pro</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>Class 3: Signing + Encryption</h2>
+                <p>DSC Applied in Just 3 Days</p>
                 <div class="space10"></div>
-                <h1>$1499/mo</h1>
-                <p>Billed Yearly</p>
+                <h1>₹2,760/DSC & Token</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Class 3 DSC with Token</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> 2 Years Validity</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Individual Use</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Free Delivery in India</li>
+                  </ul>
+                  <strong>Can Be Used For:</strong>
+                  <ul>
+                    <li>All Signing Uses + e-Tender Portal</li>
+                    <li>Vendor/Bidder (eProcure)</li>
+                  </ul>
+                  <strong>Cannot Be Used For:</strong>
+                  <ul>
+                    <li>DGFT, IET</li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
 
+
           <!-- Another Basic Plan -->
           <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>Class 3: Signing</h2>
+                <p>DSC Applied in Just 3 Days</p>
                 <div class="space10"></div>
-                <h1>$1399/mo</h1>
-                <p>Billed Yearly</p>
+                <h1>₹1,995/DSC & Token</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
                   <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Class 3 DSC with Token</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> 2 Years Validity</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Individual Use</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Free Delivery in India</li>
+                  </ul>
+                  <strong>Can Be Used For:</strong>
+                  <ul>
+                    <li>GST, Income Tax, MCA (ROC)</li>
+                    <li>EPF, E-Ticketing, Excise</li>
+                    <li>IceGate, IEC, Patent/Trademark</li>
+                  </ul>
+                  <strong>Cannot Be Used For:</strong>
+                  <ul>
+                    <li>e-Tender Portal</li>
+                    <li>Vendor/Bidder (eProcure)</li>
+                    <li>DGFT, IET</li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
+
+          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1400">
+            <div class="home2-pricing-box">
+              <div class="home2-hadding home2-single-service home2-hadding-p">
+                <h2>DGFT Digital Signature</h2>
+                <p>DSC Applied in Just 3 Days</p>
+                <div class="space10"></div>
+                <h1>₹2,994/DSC & Token</h1>
+                <div class="space20"></div>
+                <div class="home2-price-list">
+                  <strong>Plan Includes:</strong>
+                  <ul>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"            alt=""> Token Included</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"            alt=""> Free Delivery in India</li>
+                  </ul>
+                  <strong>Can Be Used For:</strong>
+                  <ul>
+                    <li>DGFT</li>
+                    <li>IET (Import-Export Tender)</li>
+                  </ul>
+                  <strong>Cannot Be Used For:</strong>
+                  <ul>
+                    <li>GST, Income Tax, MCA</li>
+                    <li>EPF, IEC, Trademark</li>
+                    <li>Excise, IceGate, e-Tender, Vendor/Bidder</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
 
         </div> <!-- /.row -->
       </div> <!-- /.container -->

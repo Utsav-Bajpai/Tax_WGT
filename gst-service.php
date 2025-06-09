@@ -160,95 +160,125 @@
       <div class="col-md-6 m-auto text-center" data-aos="fade-down" data-aos-duration="800">
         <div class="home2-hadding hadding-span home2-padding-after">
           <span class="span">Pricing Plan</span>
-          <h1>Our Plans Make Compliance <span class="after">Easier</span> for Individuals & Businesses</h1>
-          <p></p>
+          <h1>GST Registration Plans Tailored for All Entity Types</h1>
+          <p>We provide quick and easy GST registration services — processed in just 3 days!</p>
         </div>
       </div>
     </div>
 
-    <div class="home2-princing-plans">
-      <div class="container">
-        <div class="row">
-
-          <!-- Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
-                <div class="space10"></div>
-                <h1>₹429</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income Tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+    <div class="row">
+      <!-- Individual/Proprietorship -->
+      <div class="col-md-4">
+        <div class="home2-pricing-box">
+          <div class="home2-hadding home2-single-service home2-hadding-p">
+            <h2>Individual / Proprietorship</h2>
+            <p>GST Registration in 3 Days</p>
+            <h1>₹798</h1>
+            <p><strong>Documents Required:</strong></p>
+            <ul>
+              <li>Email ID</li>
+              <li>Mobile Number</li>
+              <li>PAN Card</li>
+              <li>Aadhaar Card</li>
+              <li>Address Proof</li>
+              <li>Photo of Proprietor</li>
+              <li>Utility Bills</li>
+            </ul>
           </div>
+        </div>
+      </div>
 
-          <!-- Pro Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Pro</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
-                <div class="space10"></div>
-                <h1>$1499/mo</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+      <!-- HUF -->
+      <div class="col-md-4">
+        <div class="home2-pricing-box">
+          <div class="home2-hadding home2-single-service home2-hadding-p">
+            <h2>HUF</h2>
+            <p>GST Registration in 3 Days</p>
+            <h1>₹1,293</h1>
+            <p><strong>Documents Required:</strong></p>
+            <ul>
+              <li>Email ID</li>
+              <li>Mobile Number</li>
+              <li>PAN Card</li>
+              <li>Aadhaar Card</li>
+              <li>Address Proof</li>
+              <li>Photo of Karta</li>
+              <li>Utility Bills</li>
+            </ul>
           </div>
+        </div>
+      </div>
 
-          <!-- Another Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
-                <div class="space10"></div>
-                <h1>$1399/mo</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+      <!-- LLP / Partnership -->
+      <div class="col-md-4">
+        <div class="home2-pricing-box">
+          <div class="home2-hadding home2-single-service home2-hadding-p">
+            <h2>LLP / Partnership Firm</h2>
+            <p>GST Registration in 3 Days</p>
+            <h1>₹1,293</h1>
+            <p><strong>Documents Required:</strong></p>
+            <ul>
+              <li>Email ID</li>
+              <li>Mobile Number</li>
+              <li>PAN Card of Firm</li>
+              <li>Partnership Deed</li>
+              <li>Resolution signed by Partners</li>
+              <li>KYC Docs for up to 2 Partners</li>
+              <li>Additional documents as per case</li>
+            </ul>
           </div>
+        </div>
+      </div>
 
-        </div> <!-- /.row -->
-      </div> <!-- /.container -->
-    </div> <!-- /.home2-princing-plans -->
-  </div> <!-- /.container -->
+      <!-- Pvt Ltd -->
+      <div class="col-md-6">
+        <div class="home2-pricing-box">
+          <div class="home2-hadding home2-single-service home2-hadding-p">
+            <h2>Private Limited Company</h2>
+            <p>GST Registration in 3 Days</p>
+            <p><strong>Documents Required:</strong></p>
+            <ul>
+              <li>Email ID & Mobile Number</li>
+              <li>PAN Card of Company</li>
+              <li>Certificate of Incorporation</li>
+              <li>MOA & AOA</li>
+              <li>Board Resolution</li>
+              <li>ID & Address Proof of Directors</li>
+              <li>Director’s Proof</li>
+              <li>Digital Signature</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Public Ltd / Trust / Society -->
+      <div class="col-md-6">
+        <div class="home2-pricing-box">
+          <div class="home2-hadding home2-single-service home2-hadding-p">
+            <h2>Public Ltd / Trust / Society</h2>
+            <p>GST Registration in 3 Days</p>
+            <p><strong>Plan Includes:</strong></p>
+            <ul>
+              <li>Email ID & Mobile Number</li>
+              <li>PAN Card of Company</li>
+              <li>Certificate of Incorporation</li>
+              <li>MOA & AOA</li>
+              <li>Board Resolution</li>
+              <li>ID & Address Proof of Directors</li>
+              <li>Director’s Proof and/or Digital Signature</li>
+              <li>Additional documents as per case</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row pt-4">
+      <div class="col-12 text-center">
+        <p><strong>Note:</strong> Processing within 3 business days. Pricing & policy subject to change by Finodha.in.</p>
+      </div>
+    </div>
+  </div>
 </div> 
   
  
