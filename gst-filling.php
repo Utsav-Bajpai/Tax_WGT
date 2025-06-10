@@ -249,7 +249,7 @@
       </div>
 
       <!-- Pvt Ltd -->
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="home2-pricing-box">
           <div class="home2-hadding home2-single-service home2-hadding-p">
             <h2>GST Compliance for Composite Dealer: Freelancers/Traders.</h2>
@@ -275,7 +275,7 @@
       </div>
 
       <!-- Public Ltd / Trust / Society -->
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="home2-pricing-box">
           <div class="home2-hadding home2-single-service home2-hadding-p">
             <h2>Sales Return</h2>
@@ -292,6 +292,33 @@
               <p><strong>Team wealthguardtax.in strives to process all work within three business days</p></strong>
               <p><strong>wealthguardtax.in has every right to change the policy and prices</p></strong>
               <p><strong> In all the above plans, only GST Returns will be filed according to the actual data provided by the client; previous data reconciliation is not included in any of the above plans</p></strong>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+       <!-- Pvt Ltd -->
+        
+
+      <div class="col-md-4">
+        <div class="home2-pricing-box">
+          <div class="home2-hadding home2-single-service home2-hadding-p">
+            <h2>Annual Return </h2>
+            
+            <p>Composition Scheme = GSTR-4</p>
+
+             <h1>Rs. 9,996 to Rs. 17,700</h1>
+            <p><strong>Plan included:</strong></p>
+            <ul>
+              <li>Filing of GSTR-4</li>
+              <li>Filing for Freelancers/Traders</li>
+              
+              
+            
+              <p><strong>Team wealthguardtax.in strives to process all work within three business days</p></strong>
+              <p><strong>wealthguardtax.in has every right to change the policy and prices</p></strong>
+              <p><strong> In all the above plans, only GST Returns will be filed according to the actual data provided by the client; previous data reconciliation is not included in any of the above plans</p></strong>
+              
             </ul>
           </div>
         </div>
