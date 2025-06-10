@@ -201,7 +201,7 @@
           <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Trade Mark Apply @2000 excluding government fees get it within 1-2 days guaranteed </h2>
+                <h2>Trade Mark Apply @2499 excluding government fees get it within 1-2 days guaranteed </h2>
                   <!-- <p>Filing done in just 6 hours. You can start using the ™ symbol in 1-2 days
   Starts from ₹2499, plus applicable government charges. (Subject to change)*
   Get a 30-minute consultation with a TM expert, a thorough trademark search, and FREE MSME registration. TM application filed in 6 hours. Use the TM symbol in 1-2 days.</p>
