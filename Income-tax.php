@@ -79,23 +79,10 @@
         <div class="col-md-6">
           <div class="about-page-img-all">
             <div class="about-page-about-img1 img-border img100">
-              <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
+              <img src="assets/img/image/incomeabout.png" alt="Income Tax">
             </div>
-            <div class="space20"></div>
-            <!-- <div class="row">
-              <div class="col-md-6">
-                <div class="about-page-img-2 img-border img100">
-                  <img src="assets/img/image/about-page-img-2.png" alt="">
-                </div>
-              </div>
-
-              <div class="col-md-6">
-                <div class="about-page-img-3 img-border img100 space-sm-30">
-                  <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
-                </div>
-              </div>
-
-            </div> -->
+           
+           
           </div>
         </div>
 
@@ -140,9 +127,7 @@
                 </div>
               </div>
             </div>
-            <div class="header-btn-1 button btn-after home1-button">
-              <a href="#">Explore More About Us</a>
-            </div>
+            
           </div>
         </div>
 
@@ -160,214 +145,199 @@
         <div class="home2-hadding hadding-span home2-padding-after">
           <span class="span">Pricing Plan</span>
           <h1>Our Plans Make Compliance <span class="after">Easier</span> for Individuals & Businesses</h1>
-          <p></p>
         </div>
       </div>
     </div>
 
+    <!-- Pricing Plans -->
     <div class="home2-princing-plans">
-      <div class="container">
-        <div class="row">
-          <!-- Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Single-Income-Plan-7</h2>
-                <p>AI x Expert Assisted Tax Filing</p>
-                <div class="space10"></div>
-                <h1>₹690/Year</h1>
-                <div class="space20"></div>
-                <div class="home2-price-list">
+      <div class="row">
+        <!-- Plan 1 -->
+        <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
+          <div class="home2-pricing-box">
+            <div class="home2-hadding home2-single-service home2-hadding-p">
+              <h2>Single-Income-Plan-7</h2>
+              <p>AI x Expert Assisted Tax Filing</p>
+              <h1>₹690/Year</h1>
+              <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Gross Total Income up to ₹7 lakhs</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Single Employer Salary / Agriculture / Business / Rental Income</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income from Other Sources</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Deductions (80C to 80U)</li>
-                  </ul>
-                  <strong>Excludes:</strong>
-                  <ul>
-                    <li>Capital Gains / Crypto</li>
-                    <li>Balance Sheet / P&L</li>
-                    <li>Revised/Belated ITR</li>
-                  </ul>
-                </div>
+                <ul>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gross Total Income up to ₹7 lakhs</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Single Employer Salary / Agriculture / Business / Rental Income</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Income from Other Sources</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Deductions (80C to 80U)</li>
+                </ul>
+                <strong>Excludes:</strong>
+                <ul>
+                  <li>Capital Gains / Crypto</li>
+                  <li>Balance Sheet / P&L</li>
+                  <li>Revised/Belated ITR</li>
+                </ul>
               </div>
             </div>
           </div>
         </div>
-        <div class="row">
-          <!-- Pro Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Multiple-Income-Plan-10</h2>
-                <p>AI x Expert Assisted Tax Filing</p>
-                <div class="space10"></div>
-                <h1>₹960/Year</h1>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <strong>Plan Includes:</strong>
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gross Income up to ₹10 lakhs</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> PF Withdrawal / Multiple Employers</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Business/Profession / Multiple House Properties</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Director/Partner in any entity</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Deductions (80C to 80U)</li>
-                  </ul>
-                  <strong>Excludes:</strong>
-                  <ul>
-                    <li>Capital Gains / Crypto</li>
-                    <li>Balance Sheet / P&L</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
 
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Capital-Gain-Winning-Plan-15</h2>
-                <p>AI x Expert Assisted Tax Filing</p>
-                <div class="space10"></div>
-                <h1>₹1,347/Year</h1>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <strong>Plan Includes:</strong>
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gross Income up to ₹15 lakhs</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Mutual Funds & Listed Shares Capital Gain</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gaming Winnings / Other Sources</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Director/Partner in any entity</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Deductions (80C to 80U)</li>
-                  </ul>
-                  <strong>Excludes:</strong>
-                  <ul>
-                    <li>Balance Sheet / P&L</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Another Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1400">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Capital-Gain-Winning-Plan-25</h2>
-                <p>AI x Expert Assisted Tax Filing</p>
-                <div class="space10"></div>
-                <h1>₹1,995/Year</h1>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <strong>Plan Includes:</strong>
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gross Income up to ₹25 lakhs</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Mutual Funds & Listed Shares Capital Gain</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gaming Winnings / Salary / Rental</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Director/Partner in any entity</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Deductions (80C to 80U)</li>
-                  </ul>
-                  <strong>Excludes:</strong>
-                  <ul>
-                    <li>Balance Sheet / P&L</li>
-                  </ul>
-                </div>
+        <!-- Plan 2 -->
+        <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
+          <div class="home2-pricing-box">
+            <div class="home2-hadding home2-single-service home2-hadding-p">
+              <h2>Multiple-Income-Plan-10</h2>
+              <p>AI x Expert Assisted Tax Filing</p>
+              <h1>₹960/Year</h1>
+              <div class="home2-price-list">
+                <strong>Plan Includes:</strong>
+                <ul>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gross Income up to ₹10 lakhs</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> PF Withdrawal / Multiple Employers</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Business/Profession / Multiple House Properties</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Director/Partner in any entity</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Deductions (80C to 80U)</li>
+                </ul>
+                <strong>Excludes:</strong>
+                <ul>
+                  <li>Capital Gains / Crypto</li>
+                  <li>Balance Sheet / P&L</li>
+                </ul>
               </div>
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1600">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Arrear-Salary-Plan-25</h2>
-                <p>AI x Expert Assisted Tax Filing</p>
-                <div class="space10"></div>
-                <h1>₹2,994/Year</h1>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <strong>Plan Includes:</strong>
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gross Income up to ₹25 lakhs</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Salary incl. Arrear / PF Withdrawal</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Mutual Fund & Listed Shares Capital Gain</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Rental / Gaming / Other Sources</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Director/Partner in any entity</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Deductions (80C to 80U)</li>
-                  </ul>
-                  <strong>Excludes:</strong>
-                  <ul>
-                    <li>Balance Sheet / P&L</li>
-                  </ul>
-                </div>
+
+        <!-- Plan 3 -->
+        <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
+          <div class="home2-pricing-box">
+            <div class="home2-hadding home2-single-service home2-hadding-p">
+              <h2>Capital-Gain-Winning-Plan-15</h2>
+              <p>AI x Expert Assisted Tax Filing</p>
+              <h1>₹1,347/Year</h1>
+              <div class="home2-price-list">
+                <strong>Plan Includes:</strong>
+                <ul>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gross Income up to ₹15 lakhs</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Mutual Funds & Listed Shares Capital Gain</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gaming Winnings / Other Sources</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Director/Partner in any entity</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Deductions (80C to 80U)</li>
+                </ul>
+                <strong>Excludes:</strong>
+                <ul>
+                  <li>Balance Sheet / P&L</li>
+                </ul>
               </div>
             </div>
           </div>
+        </div>
 
-
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1800">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Retirement-Benefits-Plan-50</h2>
-                <p>AI x Expert Assisted Tax Filing</p>
-                <div class="space10"></div>
-                <h1>₹3,993/Year</h1>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <strong>Plan Includes:</strong>
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gross Income up to ₹50 lakhs</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Salary incl. Retirement & Arrear Benefits</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Mutual Fund & Listed Shares Capital Gain</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Rental / Gaming / PF / Other Sources</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Director/Partner in any entity</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Deductions (80C to 80U)</li>
-                  </ul>
-                  <strong>Excludes:</strong>
-                  <ul>
-                    <li>Balance Sheet / P&L</li>
-                  </ul>
-                </div>
+        <!-- Plan 4 -->
+        <div class="col-md-4" data-aos="fade-down" data-aos-duration="1400">
+          <div class="home2-pricing-box">
+            <div class="home2-hadding home2-single-service home2-hadding-p">
+              <h2>Capital-Gain-Winning-Plan-25</h2>
+              <p>AI x Expert Assisted Tax Filing</p>
+              <h1>₹1,995/Year</h1>
+              <div class="home2-price-list">
+                <strong>Plan Includes:</strong>
+                <ul>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gross Income up to ₹25 lakhs</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Mutual Funds & Listed Shares Capital Gain</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gaming Winnings / Salary / Rental</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Director/Partner in any entity</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Deductions (80C to 80U)</li>
+                </ul>
+                <strong>Excludes:</strong>
+                <ul>
+                  <li>Balance Sheet / P&L</li>
+                </ul>
               </div>
             </div>
           </div>
+        </div>
 
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="2000">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>F&O-IntraD.-Crypto-Plan-50</h2>
-                <p>AI x Expert Assisted Tax Filing</p>
-                <div class="space10"></div>
-                <h1>₹4,992/Year</h1>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <strong>Plan Includes:</strong>
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Gross Income up to ₹50 lakhs</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> F&O, Intraday, Crypto/VDA Income</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Mutual Funds & Listed Shares Capital Gain</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Salary incl. Arrear & Retirement</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Rental / Gaming / Other Sources</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Director/Partner in any entity</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"           alt=""> Deductions (80C to 80U)</li>
-                  </ul>
-                  <strong>Excludes:</strong>
-                  <ul>
-                    <li>Balance Sheet / P&L</li>
-                  </ul>
-                </div>
+        <!-- Plan 5 -->
+        <div class="col-md-4" data-aos="fade-down" data-aos-duration="1600">
+          <div class="home2-pricing-box">
+            <div class="home2-hadding home2-single-service home2-hadding-p">
+              <h2>Arrear-Salary-Plan-25</h2>
+              <p>AI x Expert Assisted Tax Filing</p>
+              <h1>₹2,994/Year</h1>
+              <div class="home2-price-list">
+                <strong>Plan Includes:</strong>
+                <ul>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gross Income up to ₹25 lakhs</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Salary incl. Arrear / PF Withdrawal</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Mutual Fund & Listed Shares Capital Gain</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Rental / Gaming / Other Sources</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Director/Partner in any entity</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Deductions (80C to 80U)</li>
+                </ul>
+                <strong>Excludes:</strong>
+                <ul>
+                  <li>Balance Sheet / P&L</li>
+                </ul>
               </div>
             </div>
           </div>
+        </div>
 
-        
-        </div> <!-- /.row -->
-      </div> <!-- /.container -->
+        <!-- Plan 6 -->
+        <div class="col-md-4" data-aos="fade-down" data-aos-duration="1800">
+          <div class="home2-pricing-box">
+            <div class="home2-hadding home2-single-service home2-hadding-p">
+              <h2>Retirement-Benefits-Plan-50</h2>
+              <p>AI x Expert Assisted Tax Filing</p>
+              <h1>₹3,993/Year</h1>
+              <div class="home2-price-list">
+                <strong>Plan Includes:</strong>
+                <ul>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gross Income up to ₹50 lakhs</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Salary incl. Retirement & Arrear Benefits</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Mutual Fund & Listed Shares Capital Gain</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Rental / Gaming / PF / Other Sources</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Director/Partner in any entity</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Deductions (80C to 80U)</li>
+                </ul>
+                <strong>Excludes:</strong>
+                <ul>
+                  <li>Balance Sheet / P&L</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Plan 7 -->
+        <div class="col-md-4" data-aos="fade-down" data-aos-duration="2000">
+          <div class="home2-pricing-box">
+            <div class="home2-hadding home2-single-service home2-hadding-p">
+              <h2>F&O-IntraD.-Crypto-Plan-50</h2>
+              <p>AI x Expert Assisted Tax Filing</p>
+              <h1>₹4,992/Year</h1>
+              <div class="home2-price-list">
+                <strong>Plan Includes:</strong>
+                <ul>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Gross Income up to ₹50 lakhs</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> F&O, Intraday, Crypto/VDA Income</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Mutual Funds & Listed Shares Capital Gain</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Salary incl. Arrear & Retirement</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Rental / Gaming / Other Sources</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Director/Partner in any entity</li>
+                  <li><img src="assets/img/icons/chek-cercle-orange-bg.svg"> Deductions (80C to 80U)</li>
+                </ul>
+                <strong>Excludes:</strong>
+                <ul>
+                  <li>Balance Sheet / P&L</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> <!-- /.row -->
     </div> <!-- /.home2-princing-plans -->
   </div> <!-- /.container -->
-</div>
+</div> <!-- /.home2-pricing-plan -->
+
+
 
 <!--=====contact-start=======-->
 <div class="contact sec-padding">
