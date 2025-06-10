@@ -56,7 +56,8 @@
           <h4>Quick Links</h4>
           <ul>
             <li><a href="income-tax.php">Income Tax Return</a></li>
-            <li><a href="gst-service.php">GST Compliance (Registration & Filings)</a></li>
+            <li><a href="gst-service.php">GST (Registration)</a></li>
+             <li><a href="gst-filling.php">GST Filling </a></li>
             <li><a href="company.php">Company Registration</a></li>
             <li><a href="dsc-service.php">Digital Signature Certificate</a></li>
             <li><a href="msme.php">MSME Registration</a></li>

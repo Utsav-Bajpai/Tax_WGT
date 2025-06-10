@@ -59,7 +59,7 @@
       <div class="row align-items-center">
         <div class="col-md-12 col-lg-5" data-aos="fade-right" data-aos-duration="800">
           <div class="home2-main-hadding hadding-space hadding-span home2-padding-after">
-            <h1>File your ITR<br> Plans start ₹690</h1>
+            <h1>File your ITR<br> Plans start Rs. 690</h1>
             <p>At Wealth Guard Tax, we streamline your tax and business compliance needs. <br> Get expert help at
               budget-friendly pricing.</p>
             <div class="home2-header-button home2-btn">

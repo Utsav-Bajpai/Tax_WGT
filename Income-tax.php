@@ -158,7 +158,7 @@
             <div class="home2-hadding home2-single-service home2-hadding-p">
               <h2>Single-Income-Plan-7</h2>
               <p>AI x Expert Assisted Tax Filing</p>
-              <h1>₹690/Year</h1>
+              <h1>Rs. 690/Year</h1>
               <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
                 <ul>
@@ -184,7 +184,7 @@
             <div class="home2-hadding home2-single-service home2-hadding-p">
               <h2>Multiple-Income-Plan-10</h2>
               <p>AI x Expert Assisted Tax Filing</p>
-              <h1>₹960/Year</h1>
+              <h1>Rs. 960/Year</h1>
               <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
                 <ul>
@@ -210,7 +210,7 @@
             <div class="home2-hadding home2-single-service home2-hadding-p">
               <h2>Capital-Gain-Winning-Plan-15</h2>
               <p>AI x Expert Assisted Tax Filing</p>
-              <h1>₹1,347/Year</h1>
+              <h1>Rs. 1,347/Year</h1>
               <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
                 <ul>
@@ -235,7 +235,7 @@
             <div class="home2-hadding home2-single-service home2-hadding-p">
               <h2>Capital-Gain-Winning-Plan-25</h2>
               <p>AI x Expert Assisted Tax Filing</p>
-              <h1>₹1,995/Year</h1>
+              <h1>Rs. 1,995/Year</h1>
               <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
                 <ul>
@@ -260,7 +260,7 @@
             <div class="home2-hadding home2-single-service home2-hadding-p">
               <h2>Arrear-Salary-Plan-25</h2>
               <p>AI x Expert Assisted Tax Filing</p>
-              <h1>₹2,994/Year</h1>
+              <h1>Rs. 2,994/Year</h1>
               <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
                 <ul>
@@ -286,7 +286,7 @@
             <div class="home2-hadding home2-single-service home2-hadding-p">
               <h2>Retirement-Benefits-Plan-50</h2>
               <p>AI x Expert Assisted Tax Filing</p>
-              <h1>₹3,993/Year</h1>
+              <h1>Rs. 3,993/Year</h1>
               <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
                 <ul>
@@ -312,7 +312,7 @@
             <div class="home2-hadding home2-single-service home2-hadding-p">
               <h2>F&O-IntraD.-Crypto-Plan-50</h2>
               <p>AI x Expert Assisted Tax Filing</p>
-              <h1>₹4,992/Year</h1>
+              <h1>Rs. 4,992/Year</h1>
               <div class="home2-price-list">
                 <strong>Plan Includes:</strong>
                 <ul>

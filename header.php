@@ -27,7 +27,8 @@
                   </a>
                   <ul class="dropdown-menu">
                     <li><a href="income-tax.php">Income Tax Return</a></li>
-                    <li><a href="gst-service.php">GST Compliance (Registration & Filings)</a></li>
+                    <li><a href="gst-service.php">GST (Registration)</a></li>
+                     <li><a href="gst-filling.php">GST Filling </a></li>
                     <li><a href="company.php">Company Registration</a></li>
                     <li><a href="dsc-service.php">Digital Signature Certificate</a></li>
                     <li><a href="msme.php">MSME Registration</a></li>
@@ -69,7 +70,7 @@
       <div class="col-12">
         <div class="mobile-header-elements">
           <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+            <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
           </div>
           <div class="mobile-nav-icon">
             <i class="fa-solid fa-bars"></i>
@@ -96,7 +97,8 @@
         </a>
         <ul class="mobile-dropdown-menu">
           <li><a href="income-tax.php">Income Tax Return</a></li>
-          <li><a href="gst-service.php">GST Compliance (Registration & Filings)</a></li>
+          <li><a href="gst-service.php">GST (Registration)</a></li>
+          <li><a href="gst-filling.php">GST Filling </a></li>
           <li><a href="company.php">Company Registration</a></li>
           <li><a href="dsc-service.php">Digital Signature Certificate</a></li>
           <li><a href="msme.php">MSME Registration</a></li>

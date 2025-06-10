@@ -102,40 +102,39 @@
         <div class="col-md-6">
           <div class="about-haddings">
             <div class="hadding hadding-p space-sm-30">
-              <span class="span">Income Tax Return</span>
+              <span class="span">Digital Signature Certificate</span>
               <!-- <h1>We Help File GST, ITRs and <br> Register Businesses Across India <br> <span>Individuals &
                   Startups</span></h1> -->
-              <h1>Expert Filing for Salaried, <br> Freelancers & Businesses</h1>
-              <p>We help you file accurate ITRs and get maximum deductions. Whether you are salaried, a freelancer, or a
-              business owner, our expert team ensures timely and compliant filing.</p>
+              <h1>Want to buy a DSC (Digital Signature Certificate) online and most affordably?</h1>
+              <p>Wealth Guard Tax is India’s most affordable provider of DSC. We can provide a Class 3 DSC (Digital Signature Certificate) online registration in just 3 easy steps!</p>
               <div class="space20"></div>
-              <p>
+              <!-- <p>
                 Please feel free to browse our website to see the tax services we offer as well as the many helpful
-                resources we provide.</p>
+                resources we provide.</p> -->
             </div>
 
             <div class="check-list-all">
               <div class="row">
                 <div class="col-md-4">
                   <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> Form 16-based salary returns</p>
+                    <p><img src="assets/img/icons/check.svg" alt=""> The process starts just-in 30 Min</p>
                   </div>
                   <div class="space20"></div>
                   <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> Capital Gains or House Property income</p>
+                    <p><img src="assets/img/icons/check.svg" alt=""> Completely Online Process</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> Business and freelance income</p>
+                    <p><img src="assets/img/icons/check.svg" alt=""> Easy and Affordable</p>
                   </div>
                   <div class="space20"></div>
                   <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> Tax saving investment declaration</p>
+                    <p><img src="assets/img/icons/check.svg" alt=""> Expert Support</p>
                   </div>
                   <div class="space20"></div>
                   <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> IT Notice Response Support</p>
+                    <p><img src="assets/img/icons/check.svg" alt="">  NO HIDDEN CHARGE</p>
                   </div>
                 </div>
               </div>

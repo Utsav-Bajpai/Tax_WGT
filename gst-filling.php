@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
   <!--=====TITLE=======-->
-  <title> GST Registration || Services</title>
+  <title> GST Filling || Services</title>
 
   <!--=====FAV ICON=======-->
   <link rel="shortcut icon" href="assets/img/logo/title-logo.png">
@@ -61,8 +61,8 @@
       <div class="row">
         <div class="col-md-8 m-auto text-center">
           <div class="hadding hadding-sec">
-            <h1>GST Registration & Compliance</h1>
-            <h6>Home > Services > GST Registration Compliance</h6>
+            <h1>GST Filling</h1>
+            <h6>Home > Services > GST Filling</h6>
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@
           <div class="about-haddings">
             <div class="hadding hadding-p space-sm-30">
               <span class="span">GST Compliance</span>
-              <h1>Seamless GST Registration & Monthly Filings</h1>
+              <h1>Seamless GST Monthly Filings</h1>
               <p>We help businesses register under GST and file GSTR-1, GSTR-3B, and annual returns on time. Stay
                 compliant and avoid penalties with our expert-led GST services.</p>
               <div class="space20"></div>
@@ -158,7 +158,7 @@
       <div class="col-md-6 m-auto text-center" data-aos="fade-down" data-aos-duration="800">
         <div class="home2-hadding hadding-span home2-padding-after">
           <span class="span">Pricing Plan</span>
-          <h1>GST Registration Plans Tailored for All Entity Types</h1>
+          <h1>GST Filling Plans Tailored for All Entity Types</h1>
           <p>We provide quick and easy GST registration services — processed in just 3 days!</p>
         </div>
       </div>
@@ -169,18 +169,26 @@
       <div class="col-md-4">
         <div class="home2-pricing-box">
           <div class="home2-hadding home2-single-service home2-hadding-p">
-            <h2>Individual / Proprietorship</h2>
-            <p>GST Registration in 3 Days</p>
-            <h1>Rs. 798</h1>
-            <p><strong>Documents Required:</strong></p>
+            <h2>GST Compliances for Regular Scheme: Freelancers/Traders/Online sellers.</h2>
+            <p>Nil Return</p>
+            <p>Regular Scheme = GSTR-1 & GSTR-3B</p>
+            <h1>Rs.430/Month</h1>
+            <p><strong>Plan included:</strong></p>
             <ul>
-              <li>Email ID</li>
-              <li>Mobile Number</li>
-              <li>PAN Card</li>
-              <li>Aadhaar Card</li>
-              <li>Address Proof</li>
-              <li>Photo of Proprietor</li>
-              <li>Utility Bills</li>
+              <li>Filing of GSTR-1 & GSTR-3B both</li>
+              <li>Filing for Freelancers/Traders/Online sellers; E-Commerce Seller</li>
+              <li>Zero Sale Invoices</li>
+              <li> Zero Purchase Invoices</li>
+              <p><strong>Plan excluded:</strong></p>
+              <li>This plan is not applicable if GSTIN has any sales/purchases,</li>
+              <li>Credit Reconciliation (Reconciliation of Purchase Register and GSTR-2A)</li>
+              <li>Annual Return</li>
+              <p><strong>Note: 1. 50% Discount on the yearly plan for monthly filers & 20% for quarterly filers</strong></p>
+              <p><strong>Note: 2. Team Wealth guard tax strives to process all work within three business days</strong></p>
+              <p><strong>Note: 3. wealthguardtax.in has every right to change the policy and price</strong></p>
+              <p><strong>Note: 4. In all the above plans, only GST Returns will be filed according to the actual data provided by the client; previous data reconciliation is not included in any of the above plans.</strong></p>
+              
+
             </ul>
           </div>
         </div>
@@ -190,18 +198,24 @@
       <div class="col-md-4">
         <div class="home2-pricing-box">
           <div class="home2-hadding home2-single-service home2-hadding-p">
-            <h2>HUF</h2>
-            <p>GST Registration in 3 Days</p>
-            <h1>Rs. 1,293</h1>
-            <p><strong>Documents Required:</strong></p>
+            <h2>Sale-Purchase Return</h2>
+            <p>Regular Scheme = GSTR-1 & GSTR-3B</p>
+            <h1>Rs. 1,230/Month</h1>
+            <p><strong>Plan included:</strong></p>
             <ul>
-              <li>Email ID</li>
-              <li>Mobile Number</li>
-              <li>PAN Card</li>
-              <li>Aadhaar Card</li>
-              <li>Address Proof</li>
-              <li>Photo of Karta</li>
-              <li>Utility Bills</li>
+              <li>Filing of GSTR-1 & GSTR-3B both</li>
+              <li>Filing for Freelancers/Traders/Online sellers; E-Commerce Seller</li>
+              <li>Filing of TDS & TCS Credit Receipt</li>
+              <li>Unlimited* B2B Invoices</li>
+              <li>Unlimited* B2C Invoices</li>
+               <p><strong>Plan excluded:</strong></p>
+              <li>Credit Reconciliation (Reconciliation of Purchase Register and GSTR-2A)</li>
+              <li>Annual Return </li>
+               <p><strong>Note: 1. 20% Discount on the yearly plan</strong></p>
+              <p><strong>Note: 2. For unlimited invoices excel utility; must be filled with proper & essential details such as B2B invoices, B2C invoices, and ITC and provided with the required documents as required</strong></p>
+              <p><strong>Note: 3. Team wealthguardtax.in strives to process all work within three business days</strong></p>
+              <p><strong>Note: 4. wealthguardtax.in has every right to change the policy and prices</strong></p>
+              <p><strong>Note: 4. In all the above plans, only GST Returns will be filed according to the actual data provided by the client; previous data reconciliation is not included in any of the above plans.</strong></p>
             </ul>
           </div>
         </div>
@@ -211,18 +225,24 @@
       <div class="col-md-4">
         <div class="home2-pricing-box">
           <div class="home2-hadding home2-single-service home2-hadding-p">
-            <h2>LLP / Partnership Firm</h2>
-            <p>GST Registration in 3 Days</p>
-            <h1>Rs.   1,293</h1>
-            <p><strong>Documents Required:</strong></p>
+            <h2>Sale-Purchase Return</h2>
+            <p>Regular Scheme = GSTR-1 & GSTR-3B</p>
+            <h1>Rs. 699/Month</h1>
+            <p><strong>Plan included:</strong></p>
             <ul>
-              <li>Email ID</li>
-              <li>Mobile Number</li>
-              <li>PAN Card of Firm</li>
-              <li>Partnership Deed</li>
-              <li>Resolution signed by Partners</li>
-              <li>KYC Docs for up to 2 Partners</li>
-              <li>Additional documents as per case</li>
+              <li>Filing of GSTR-1 & GSTR-3B both</li>
+              <li>Filing for Freelancers/Traders/Online sellers; E-Commerce Seller</li>
+              <li>Filing of TDS & TCS Credit Receipt</li>
+              <li>Upto 25 B2B Invoices</li>
+              <li>Upto 50 B2C Invoices</li>
+               <p><strong>Plan excluded:</strong></p>
+              <li>Credit Reconciliation (Reconciliation of Purchase Register and GSTR-2A)</li>
+              <li>Annual Return </li>
+               <p><strong>Note: 1. 20% Discount on the yearly plan</strong></p>
+              <p><strong>Note: 2. Flexible pricing based on the number of B2B &/or B2C Invoices</strong></p>
+              <p><strong>Note: 3. Team wealthguardtax.in strives to process all work within three business days</strong></p>
+              <p><strong>Note: 4. wealthguardtax.in has every right to change the policy and prices</strong></p>
+              <p><strong>Note: 4. In all the above plans, only GST Returns will be filed according to the actual data provided by the client; previous data reconciliation is not included in any of the above plans.</strong></p>
             </ul>
           </div>
         </div>
@@ -232,19 +252,23 @@
       <div class="col-md-6">
         <div class="home2-pricing-box">
           <div class="home2-hadding home2-single-service home2-hadding-p">
-            <h2>Private Limited Company</h2>
-            <p>GST Registration in 3 Days</p>
-             <h1>Rs.   1,499</h1>
-            <p><strong>Documents Required:</strong></p>
+            <h2>GST Compliance for Composite Dealer: Freelancers/Traders.</h2>
+            <p>Nil Return</p>
+            <p>Composition Scheme = CMP-08</p>
+
+             <h1>Rs. 330/Quarter</h1>
+            <p><strong>Plan included:</strong></p>
             <ul>
-              <li>Email ID & Mobile Number</li>
-              <li>PAN Card of Company</li>
-              <li>Certificate of Incorporation</li>
-              <li>MOA & AOA</li>
-              <li>Board Resolution</li>
-              <li>ID & Address Proof of Directors</li>
-              <li>Director’s Proof</li>
-              <li>Digital Signature</li>
+              <li>Filing of CMP-08</li>
+              <li>Filing for Freelancers/Traders</li>
+              <li>Zero Sale Invoices</li>
+              <li>Zero Purchase Invoices</li>
+              <p><strong>Plan excluded:</strong></p>
+              <li>This plan is not applicable if GSTIN has any sales/purchases</li>
+              <li>Annual Return</li>
+              <p><strong>Note: 1. 15% Discount on the yearly plan</p></strong>
+              <p><strong>Team wealthguardtax.in strives to process all work within three business days</p></strong>
+              <p><strong>wealthguardtax.in has every right to change the policy and prices</p></strong>
             </ul>
           </div>
         </div>
@@ -254,19 +278,20 @@
       <div class="col-md-6">
         <div class="home2-pricing-box">
           <div class="home2-hadding home2-single-service home2-hadding-p">
-            <h2>Public Ltd / Trust / Society</h2>
-            <p>GST Registration in 3 Days</p>
-             <h1>Rs.   1,999</h1>
-            <p><strong>Plan Includes:</strong></p>
-            <ul>
-              <li>Email ID & Mobile Number</li>
-              <li>PAN Card of Company</li>
-              <li>Certificate of Incorporation</li>
-              <li>MOA & AOA</li>
-              <li>Board Resolution</li>
-              <li>ID & Address Proof of Directors</li>
-              <li>Director’s Proof and/or Digital Signature</li>
-              <li>Additional documents as per case</li>
+            <h2>Sales Return</h2>
+            <p>Composition Scheme = CMP-08</p>
+             <h1>Rs.393/Quarter</h1>
+            <p><strong>Plan Included:</strong></p>
+           <ul>
+              <li>Filing of CMP-08</li>
+              <li>Filing for Freelancers/Traders</li>
+              
+              <p><strong>Plan excluded:</strong></p>
+              
+              <p><strong>Note: 1. 15% Discount on the yearly plan</p></strong>
+              <p><strong>Team wealthguardtax.in strives to process all work within three business days</p></strong>
+              <p><strong>wealthguardtax.in has every right to change the policy and prices</p></strong>
+              <p><strong> In all the above plans, only GST Returns will be filed according to the actual data provided by the client; previous data reconciliation is not included in any of the above plans</p></strong>
             </ul>
           </div>
         </div>

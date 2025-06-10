@@ -107,41 +107,29 @@
         <div class="col-md-6">
           <div class="about-haddings">
             <div class="hadding hadding-p space-sm-30">
-              <span class="span">IEC Registration</span>
-              <h1>Start Your Import or Export Business</h1>
-              <p>Get your IEC from DGFT within 24–48 hours and begin trading internationally. We handle your online
-                application, documents, and tracking until you're approved.</p>
+              <span class="span">Company Registration</span>
+              <h1>Company Registration Plan & Pricing</h1>
+              <p> Private/Public Limited/OPC Registration with Wealth Guard Your Gateway to a Successful Business.</p>
 
-              <div class="space20"></div>
-              <p>
-                Please feel free to browse our website to see the IEC Registration services we offer as well as the many
-                helpful
-                resources we provide.</p>
+              <div class="space10"></div>
+             
             </div>
 
-            <div class="check-list-all">
-              <div class="row">
+             <div class="check-list-all">
+              <div class="row ">
                 <div class="col-md-4">
                   <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> DGFT IEC Registration</p>
+                    <p><img src="assets/img/icons/check.svg" alt="">Help you register your directors with the Ministry of Corporate Affairs (MCA)</p>
                   </div>
                   <div class="space20"></div>
-                  <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> PAN & Aadhaar Based eKYC</p>
-                  </div>
+                  
                 </div>
                 <div class="col-md-6">
                   <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> Digital Signature Assistance</p>
+                    <p><img src="assets/img/icons/check.svg" alt="">  Draft and file the documents required for your company registration (MoA and AoA).</p>
                   </div>
                   <div class="space20"></div>
-                  <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> IEC Code Delivery in 48 Hours</p>
-                  </div>
-                  <div class="space20"></div>
-                  <div class="chek-list">
-                    <p><img src="assets/img/icons/check.svg" alt=""> Modification & Renewal Support</p>
-                  </div>
+                  
                 </div>
               </div>
             </div>
