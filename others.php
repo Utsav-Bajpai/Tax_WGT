@@ -53,71 +53,7 @@
   <!--=====progress END=======-->
 
   <!--=====HEADER START=======-->
-  <header>
-    <div class="header-area-home1 header-area-home3 d-none d-lg-block">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="header-elements">
-              <div class="site-logo">
-                <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
-              </div>
-              <div class="main-menu-ex home2-menu">
-                <ul>
-                  <li><a href="index.html">Home </a>
-                  <li><a href="about.html">About Us</a>
-                  <li><a href="service.html">Service</a></li>
-                  <li><a href="blog.html">Blog</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
-                </ul>
-                <li class="d-lg-none d-block"><a href="#"><img src="assets/img/icons/phone.svg" alt="">935-561-3693</a>
-                </li>
-                </ul>
-              </div>
-              <div class="cta-btn d-none d-lg-block btn-after button action-btn home1-header-btn">
-                <a href="tel:658-593-8295"> <img src="assets/img/icons/phone.svg" alt="">935-561-3693</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!--=====HEADER END=======-->
-
-  <!--=====Mobile header start=======-->
-  <div class="mobile-header mobile-header-4 d-block d-lg-none ">
-    <div class="container-fluid">
-      <div class="col-12">
-        <div class="mobile-header-elements">
-          <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
-          </div>
-          <div class="mobile-nav-icon">
-            <i class="fa-solid fa-bars"></i>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="mobile-sidebar">
-    <div class="menu-close">
-      <i class="fa-solid fa-xmark"></i>
-    </div>
-    <div class="mobile-nav">
-      <ul class="mobile-nav-list">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About Us</a></li>
-        <li><a href="service.html">Service</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li><a href="contact.html">Contact Us</a></li>
-        <li><a href="tel:658-593-8295"> <img src="assets/img/icons/phone.svg" alt="">658-593-8295</a></li>
-      </ul>
-
-    </div>
-  </div>
-  <!--=====Mobile header end=======-->
+ <?php include 'header.php'; ?>
 
 
   <!--============= pages-hero-area ============-->
@@ -147,7 +83,7 @@
         <div class="col-md-6">
           <div class="about-page-img-all">
             <div class="about-page-about-img1 img-border img100">
-              <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
+              <img src="assets/img/image/allabout.png" alt="ITR Filing">
             </div>
             <div class="space20"></div>
             <!-- <div class="row">
@@ -207,9 +143,7 @@
                 </div>
               </div>
             </div>
-            <div class="header-btn-1 button btn-after home1-button">
-              <a href="#">Explore More About Us</a>
-            </div>
+           
           </div>
         </div>
 
@@ -237,14 +171,63 @@
       <div class="container">
         <div class="row">
 
+        <!-- Another Basic Plan -->
+          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
+            <div class="home2-pricing-box">
+              <div class="home2-hadding home2-single-service home2-hadding-p">
+                <h2>Accounting services starting from</h2>
+                <p>Our motto is to provide cost-effective and qualitative Financial Accounting Services to entities such as small, medium and large which includes:</p>
+                <!-- <div class="space10"></div>
+                <h1>$1399/mo</h1>
+                <p>Billed Yearly</p>
+                <div class="space20"></div> -->
+                <div class="home2-price-list">
+                  <ul>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Preparation of Accounts based on the source documents provided by the companies, firms etc.</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Branch accounts preparation, centralized accounting etc.</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Preparation of accounts for foreign companies for their liaison, project or branch offices.</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Pay Roll, Fixed Asset Register, and Financial Statements from incomplete records, accounts and financial statements.</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Bank Reconciliation.</li>
+                   
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+
+          <!-- Pro Plan -->
+          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
+            <div class="home2-pricing-box">
+              <div class="home2-hadding home2-single-service home2-hadding-p">
+                <h2>Trade Mark Apply @2000 excluding government fees get it within 1-2 days guaranteed </h2>
+                  <!-- <p>Filing done in just 6 hours. You can start using the ™ symbol in 1-2 days
+  Starts from ₹2499, plus applicable government charges. (Subject to change)*
+  Get a 30-minute consultation with a TM expert, a thorough trademark search, and FREE MSME registration. TM application filed in 6 hours. Use the TM symbol in 1-2 days.</p>
+                  <div class="space10"></div>
+                  <h1>$1499/mo</h1>
+                  <p>Billed Yearly</p>
+                  <div class="space20"></div> -->
+                <div class="home2-price-list">
+                  <ul>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Filing done in just 6 hours. You can start using the ™ symbol in 1-2 days</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Starts from ₹2499, plus applicable government charges. (Subject to change)</li>
+                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Get a 30-minute consultation with a TM expert, a thorough trademark search, and FREE MSME registration. TM application filed in 6 hours. Use the TM symbol in 1-2 days.</li>
+                    
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
           <!-- Basic Plan -->
           <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
+                <h2>Fssai registration starts  @999 excluding government fees </h2>
+                <p>Documents depends on nature of business </p>
                 <div class="space10"></div>
-                <h1>₹429</h1>
+                <!-- <h1>₹429</h1>
                 <p>Billed Yearly</p>
                 <div class="space20"></div>
                 <div class="home2-price-list">
@@ -257,60 +240,12 @@
                     <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
                     <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
                   </ul>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
 
-          <!-- Pro Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Pro</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
-                <div class="space10"></div>
-                <h1>$1499/mo</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Another Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
-            <div class="home2-pricing-box">
-              <div class="home2-hadding home2-single-service home2-hadding-p">
-                <h2>Basic</h2>
-                <p>Expert tax filing and compliance services crafted to simplify legal processes and boost productivity and take your business to next level.</p>
-                <div class="space10"></div>
-                <h1>$1399/mo</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
+          
 
         </div> <!-- /.row -->
       </div> <!-- /.container -->

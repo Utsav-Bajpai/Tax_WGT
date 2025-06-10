@@ -82,7 +82,7 @@
         <div class="col-md-6">
           <div class="about-page-img-all">
             <div class="about-page-about-img1 img-border img100">
-              <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
+              <img src="assets/img/image/msmeabout.png" alt="ITR Filing">
             </div>
             <div class="space20"></div>
             <!-- <div class="row">
@@ -142,9 +142,7 @@
                 </div>
               </div>
             </div>
-            <div class="header-btn-1 button btn-after home1-button">
-              <a href="#">Explore More About Us</a>
-            </div>
+            
           </div>
         </div>
 
@@ -176,7 +174,7 @@
                 <h2>New MSME Registration</h2>
                 <p>MSME Registration Applied in just 3 Days</p>
                 <div class="space10"></div>
-                <h1>₹699</h1>
+                <h1>Rs. 699</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>
@@ -203,7 +201,7 @@
                 <h2>MSME Conversion</h2>
                 <p>Conversion Applied in just 3 Days*</p>
                 <div class="space10"></div>
-                <h1>₹996</h1>
+                <h1>Rs. 996</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>
@@ -233,7 +231,7 @@
                 <h2>Modification in MSME</h2>
                 <p>MSME Modification in just 3 Days*</p>
                 <div class="space10"></div>
-                <h1>₹699</h1>
+                <h1>Rs. 699</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>

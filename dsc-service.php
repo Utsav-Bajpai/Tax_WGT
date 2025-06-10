@@ -79,7 +79,7 @@
         <div class="col-md-6">
           <div class="about-page-img-all">
             <div class="about-page-about-img1 img-border img100">
-              <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
+              <img src="assets/img/image/dscabout.png" alt="ITR Filing">
             </div>
             <div class="space20"></div>
             <!-- <div class="row">
@@ -140,9 +140,7 @@
                 </div>
               </div>
             </div>
-            <div class="header-btn-1 button btn-after home1-button">
-              <a href="#">Explore More About Us</a>
-            </div>
+            
           </div>
         </div>
 
@@ -170,13 +168,13 @@
         <div class="row">
 
           <!-- Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="800">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
                 <h2>Class 3: Signing</h2>
                 <p>DSC Applied in Just 30min</p>
                 <div class="space10"></div>
-                <h1>₹2,850/DSC & Token</h1>
+                <h1>Rs. 2,850/DSC & Token</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>
@@ -206,13 +204,13 @@
 
 
           <!-- Pro Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="1000">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
                 <h2>Class 3: Signing + Encryption</h2>
                 <p>DSC Applied in Just 3 Days</p>
                 <div class="space10"></div>
-                <h1>₹2,760/DSC & Token</h1>
+                <h1>Rs. 2,760/DSC & Token</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>
@@ -238,13 +236,13 @@
 
 
           <!-- Another Basic Plan -->
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1200">
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="1200">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
                 <h2>Class 3: Signing</h2>
                 <p>DSC Applied in Just 3 Days</p>
                 <div class="space10"></div>
-                <h1>₹1,995/DSC & Token</h1>
+                <h1>Rs. 1,995/DSC & Token</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>
@@ -271,13 +269,13 @@
             </div>
           </div>
 
-          <div class="col-md-4" data-aos="fade-down" data-aos-duration="1400">
+          <div class="col-md-6" data-aos="fade-down" data-aos-duration="1400">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
                 <h2>DGFT Digital Signature</h2>
                 <p>DSC Applied in Just 3 Days</p>
                 <div class="space10"></div>
-                <h1>₹2,994/DSC & Token</h1>
+                <h1>Rs. 2,994/DSC & Token</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>

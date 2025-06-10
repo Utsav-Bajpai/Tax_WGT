@@ -84,7 +84,7 @@
         <div class="col-md-6">
           <div class="about-page-img-all">
             <div class="about-page-about-img1 img-border img100">
-              <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
+              <img src="assets/img/image/companyabout.png" alt="ITR Filing">
             </div>
             <div class="space20"></div>
             <!-- <div class="row">
@@ -145,9 +145,7 @@
                 </div>
               </div>
             </div>
-            <div class="header-btn-1 button btn-after home1-button">
-              <a href="#">Explore More About Us</a>
-            </div>
+            
           </div>
         </div>
 
@@ -184,7 +182,7 @@
                 <h2>Private Ltd - Complete Plan</h2>
                 <p>Company Registration Applied in Just 15 Days</p>
                 <div class="space10"></div>
-                <h1>₹9,996*</h1>
+                <h1>Rs. 9,996*</h1>
                 <p>Billed Yearly</p>
                 <div class="space20"></div>
                 <div class="home2-price-list">
@@ -218,7 +216,7 @@
                 <h2>OPC - Complete Plan</h2>
                 <p>OPC Registration Applied in Just 15 Days</p>
                 <div class="space10"></div>
-                <h1>₹9,996*</h1>
+                <h1>Rs. 9,996*</h1>
                 <p>Billed Yearly</p>
                 <div class="space20"></div>
                 <div class="home2-price-list">
@@ -252,7 +250,7 @@
                 <h2>Private Ltd - Tension-Free Plan</h2>
                 <p>Company Registration Applied in Just 15 Days</p>
                 <div class="space10"></div>
-                <h1>₹11,994*</h1>
+                <h1>Rs. 11,994*</h1>
                 <p>Billed Yearly</p>
                 <div class="space20"></div>
                 <div class="home2-price-list">
@@ -281,7 +279,7 @@
                 <h2>OPC - Tension-Free Plan</h2>
                 <p>OPC Registration Applied in Just 15 Days</p>
                 <div class="space10"></div>
-                <h1>₹11,994*</h1>
+                <h1>Rs. 11,994*</h1>
                 <div class="space20"></div>
                 <div class="home2-price-list">
                   <strong>Plan Includes:</strong>

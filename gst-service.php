@@ -81,7 +81,7 @@
         <div class="col-md-6">
           <div class="about-page-img-all">
             <div class="about-page-about-img1 img-border img100">
-              <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
+              <img src="assets/img/image/gstabout.png" alt="GST tax">
             </div>
             <div class="space20"></div>
             <!-- <div class="row">
@@ -140,9 +140,7 @@
                 </div>
               </div>
             </div>
-            <div class="header-btn-1 button btn-after home1-button">
-              <a href="#">Explore More About Us</a>
-            </div>
+           
           </div>
         </div>
 
@@ -173,7 +171,7 @@
           <div class="home2-hadding home2-single-service home2-hadding-p">
             <h2>Individual / Proprietorship</h2>
             <p>GST Registration in 3 Days</p>
-            <h1>₹798</h1>
+            <h1>Rs. 798</h1>
             <p><strong>Documents Required:</strong></p>
             <ul>
               <li>Email ID</li>
@@ -194,7 +192,7 @@
           <div class="home2-hadding home2-single-service home2-hadding-p">
             <h2>HUF</h2>
             <p>GST Registration in 3 Days</p>
-            <h1>₹1,293</h1>
+            <h1>Rs. 1,293</h1>
             <p><strong>Documents Required:</strong></p>
             <ul>
               <li>Email ID</li>
@@ -215,7 +213,7 @@
           <div class="home2-hadding home2-single-service home2-hadding-p">
             <h2>LLP / Partnership Firm</h2>
             <p>GST Registration in 3 Days</p>
-            <h1>₹1,293</h1>
+            <h1>Rs.   1,293</h1>
             <p><strong>Documents Required:</strong></p>
             <ul>
               <li>Email ID</li>
@@ -275,7 +273,7 @@
 
     <div class="row pt-4">
       <div class="col-12 text-center">
-        <p><strong>Note:</strong> Processing within 3 business days. Pricing & policy subject to change by Finodha.in.</p>
+        <p><strong>Note:</strong> Processing within 3 business days. Pricing & policy subject to change by wealthguardtax.in</p>
       </div>
     </div>
   </div>
