@@ -219,14 +219,14 @@
       <button onclick="closePopup('errorPopup')">Close</button>
     </div>
   </div>
-  <div id="whatsapp-widget-send-button-wrapper" class="whatsapp-widget-send-button-wrapper whatsapp-widget-right">
-    <div id="whatsapp-widget-send-button-wrapper-list" class="whatsapp-widget-send-button-wrapper-list whatsapp-widget-show-get-button">
-      <a href="https://wa.me/+919355613693" aria-label="Whatsapp" target="_blank" class="whatsapp-widget-button whatsapp-widget-button-activator">
-        <div class="whatsapp-widget-button-icon wh-messenger-bg-whatsapp gogoloader-animation">
-          <div><i class="bi bi-whatsapp"></i></div>
-        </div>
-      </a>
-    </div>
+    <div id="whatsapp-widget-send-button-wrapper" class="whatsapp-widget-send-button-wrapper whatsapp-widget-right">
+      <div id="whatsapp-widget-send-button-wrapper-list" class="whatsapp-widget-send-button-wrapper-list whatsapp-widget-show-get-button">
+        <a href="https://wa.me/+919355613693" aria-label="Whatsapp" target="_blank" class="whatsapp-widget-button whatsapp-widget-button-activator">
+          <div class="whatsapp-widget-button-icon wh-messenger-bg-whatsapp gogoloader-animation">
+            <div><i class="bi bi-whatsapp"></i></div>
+          </div>
+        </a>
+      </div>
 </div>
 
 

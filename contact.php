@@ -162,7 +162,7 @@
             <img src="assets/img/icons/home4-contact-iocn-3.svg" alt="Email Icon">
           </div>
           <h4>Email Address</h4>
-          <a href="mailto:contact@wealthguardtax.in">contact@wealthguardtax.in</a>
+          <a href="mailto:office@wealthguardtax.in">office@wealthguardtax.in</a>
         </div>
       </div>
 

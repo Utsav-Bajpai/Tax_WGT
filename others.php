@@ -39,7 +39,6 @@
   </div>
 
   <!--=====progress START=======-->
-
   <div class="paginacontainer">
 
     <div class="progress-wrap">
@@ -49,11 +48,10 @@
     </div>
 
   </div>
-
   <!--=====progress END=======-->
 
   <!--=====HEADER START=======-->
- <?php include 'header.php'; ?>
+  <?php include 'header.php'; ?>
 
 
   <!--============= pages-hero-area ============-->
@@ -72,11 +70,9 @@
     <!-- <img src="assets/img/shapes/shape-1.svg" alt="" class="shape-bottom-right _absolute"> -->
     <img src="assets/img/shapes/shape-1.svg" alt="" class="shape-bottom-left _absolute">
   </div>
-
   <!--============= pages-hero-area ============-->
 
   <!--============= about-page-sec-about-start ============-->
-
   <div class="about-page-about-sec sec-padding">
     <div class="container">
       <div class="row align-items-center">
@@ -86,20 +82,7 @@
               <img src="assets/img/image/allabout.png" alt="ITR Filing">
             </div>
             <div class="space20"></div>
-            <!-- <div class="row">
-              <div class="col-md-6">
-                <div class="about-page-img-2 img-border img100">
-                  <img src="assets/img/image/about-page-img-2.png" alt="">
-                </div>
-              </div>
-
-              <div class="col-md-6">
-                <div class="about-page-img-3 img-border img100 space-sm-30">
-                  <img src="assets/img/image/about-page-img-1.png" alt="ITR Filing">
-                </div>
-              </div>
-
-            </div> -->
+            
           </div>
         </div>
 
@@ -150,12 +133,9 @@
       </div>
     </div>
   </div>
-
-
   <!--============= about-page-sec-about-end ============-->
-  
-   <!-- PRICING SECTION -->
-<div class="home2-pricing-plan sec-padding">
+  <!-- PRICING SECTION -->
+  <div class="home2-pricing-plan sec-padding">
   <div class="container">
     <div class="row">
       <div class="col-md-6 m-auto text-center" data-aos="fade-down" data-aos-duration="800">
@@ -177,10 +157,7 @@
               <div class="home2-hadding home2-single-service home2-hadding-p">
                 <h2>Accounting services starting from</h2>
                 <p>Our motto is to provide cost-effective and qualitative Financial Accounting Services to entities such as small, medium and large which includes:</p>
-                <!-- <div class="space10"></div>
-                <h1>$1399/mo</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div> -->
+               <div class="space20"></div>
                 <div class="home2-price-list">
                   <ul>
                     <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Preparation of Accounts based on the source documents provided by the companies, firms etc.</li>
@@ -194,21 +171,13 @@
               </div>
             </div>
           </div>
-
           
-
           <!-- Pro Plan -->
           <div class="col-md-4" data-aos="fade-down" data-aos-duration="1000">
             <div class="home2-pricing-box">
               <div class="home2-hadding home2-single-service home2-hadding-p">
                 <h2>Trade Mark Apply @2499 excluding government fees get it within 1-2 days guaranteed </h2>
-                  <!-- <p>Filing done in just 6 hours. You can start using the ™ symbol in 1-2 days
-  Starts from ₹2499, plus applicable government charges. (Subject to change)*
-  Get a 30-minute consultation with a TM expert, a thorough trademark search, and FREE MSME registration. TM application filed in 6 hours. Use the TM symbol in 1-2 days.</p>
-                  <div class="space10"></div>
-                  <h1>$1499/mo</h1>
-                  <p>Billed Yearly</p>
-                  <div class="space20"></div> -->
+                  
                 <div class="home2-price-list">
                   <ul>
                     <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Filing done in just 6 hours. You can start using the ™ symbol in 1-2 days</li>
@@ -220,6 +189,7 @@
               </div>
             </div>
           </div>
+
           <!-- Basic Plan -->
           <div class="col-md-4" data-aos="fade-down" data-aos-duration="800">
             <div class="home2-pricing-box">
@@ -227,20 +197,7 @@
                 <h2>Fssai registration starts  @999 excluding government fees </h2>
                 <p>Documents depends on nature of business </p>
                 <div class="space10"></div>
-                <!-- <h1>₹429</h1>
-                <p>Billed Yearly</p>
-                <div class="space20"></div>
-                <div class="home2-price-list">
-                  <ul>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Income Tax Return</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> GST Compliance (Registration & Fillings)</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Company Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Digital Signature Certificate</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> MSME Registration</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Free Consultation Calls</li>
-                    <li><img src="assets/img/icons/chek-cercle-orange-bg.svg" alt=""> Startup Business Support</li>
-                  </ul>
-                </div> -->
+                
               </div>
             </div>
           </div>
@@ -251,21 +208,11 @@
       </div> <!-- /.container -->
     </div> <!-- /.home2-princing-plans -->
   </div> <!-- /.container -->
-</div>
+  </div>
+  <!-- End  PRICING SECTION -->
 
-
-
-
-
-
-
-
-
-
-
- <!--=====contact-start=======-->
-
-  <div class="contact sec-padding">
+  <!--=====contact-start=======-->
+ <div class="contact sec-padding">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-md-6" data-aos-duration="800" data-aos="flip-right">
@@ -329,18 +276,10 @@
   </div>
 
   <!--=====contact-end=======-->
-
-
-
-  <!--=====footer-start=======-->
+ 
+ <!--=====footer-start=======-->
   <?php include 'footer.php'; ?>
-
   <!--=====footer-end=======-->
-
-
-
-
-
   <!--=====JS=======-->
   <script src="assets/js/plugins/bootstrap.min.js"></script>
   <script src="assets/js/plugins/swiper.bundle.js"></script>

@@ -169,75 +169,6 @@
     <img src="assets/img/shapes/shape-1.svg" alt="" class="shape-bottom-left _absolute">
   </div>
   <!--============= about-page-sec-what-we-do-end ============-->
-
-  <!--============= about-page-why-choose-start ============-->
-  <!-- <div class="about-choose sec-padding">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-md-6">
-          <div class="hadding about-page-hadding hadding-p">
-            <span class="span">Why Choose Us</span>
-            <h1>Smart, Reliable Tax Support <br> That <span>Reduces Penalties</span></h1>
-            <p>We ensure you stay compliant and avoid fines with timely, affordable tax filings and business support.
-            </p>
-            <div class="space20"></div>
-            <p>If you are looking for a blend of personal service and expertise, you have come to the right place! I
-              offer a broad range of services.</p>
-            <div class="space30"></div>
-            <div class="header-btn-1 button btn-after home1-button">
-              <a href="#">Explore More About Us</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 space-sm-50">
-          <div class="about-choose-box">
-            <div class="about-choose-icon">
-              <img src="assets/img/icons/about-choose-icon-1.svg" alt="">
-            </div>
-            <div class="hadding hadding-p">
-              <h4><a href="#">Cryptocurrency Taxes</a></h4>
-              <p>Wealth Guard Tax offers digital tax & business services for Indian professionals & entrepreneurs.</p>
-            </div>
-          </div>
-
-          <div class="about-choose-box">
-            <div class="about-choose-icon">
-              <img src="assets/img/icons/about-choose-icon-2.svg" alt="">
-            </div>
-            <div class="hadding hadding-p">
-              <h4><a href="#">Strategic Planning</a></h4>
-              <p>Consultore Tax is a service accounting firm Tax.</p>
-            </div>
-          </div>
-
-          <div class="about-choose-box">
-            <div class="about-choose-icon">
-              <img src="assets/img/icons/about-choose-icon-3.svg" alt="">
-            </div>
-            <div class="hadding hadding-p">
-              <h4><a href="#">Strategic Planning</a></h4>
-              <p>Consultore Tax is a service accounting firm Tax.</p>
-            </div>
-          </div>
-
-          <div class="about-choose-box">
-            <div class="about-choose-icon">
-              <img src="assets/img/icons/about-choose-icon-4.svg" alt="">
-            </div>
-            <div class="hadding hadding-p">
-              <h4><a href="#">Strategic Planning</a></h4>
-              <p>Consultore Tax is a service accounting firm Tax.</p>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <!--============= about-page-why-choose-end ============-->
-
-
-
   <!--=====contact-start=======-->
   <div class="contact sec-padding">
     <div class="container">
@@ -251,9 +182,7 @@
               Contact Us
             </span>
             <h1>Book Your Free 15-min Call</span> <br> With Wealth Guard Tax Experts Today.</h1>
-            <!-- <p>Working with a life coach is like hanging out with a really honest friend who to the believes in your
-              dreams, always wants the best for you, and is willing to ask you for hard questions and call you on your
-              bullshit.</p> -->
+           
           </div>
 
           <form method="post"
